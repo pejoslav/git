@@ -25,3 +25,5 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Anna Nguyenova](https://github.com/NguyenovaAnna)
 1. [Kamil Balogh](https://github.com/KamcoPanco)
 2. [Martin Kováč](https://github.com/M-Kovac-1)
+1. [Róbert Škuta](https://github.com/pejoslav/pejoslav)
+2. 
